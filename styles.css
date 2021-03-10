@@ -1,10 +1,8 @@
 header {
     background-color: hsl(208, 100%, 97%);
-
-    position: fixed;
 }
 
 body {
-    background-color: black;
+    background-color: lightcyan;
     color: hsl(120, 100%, 25%);
 }
