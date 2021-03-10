@@ -6,3 +6,6 @@ body {
     background-color: lightcyan;
     color: hsl(120, 100%, 25%);
 }
+p {
+    font-family: monospace;
+}
