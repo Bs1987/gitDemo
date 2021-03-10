@@ -1,0 +1,10 @@
+header {
+    background-color: hsl(208, 100%, 97%);
+
+    position: fixed;
+}
+
+body {
+    background-color: hsl(203, 92%, 75%);
+    color: hsl(120, 100%, 25%);
+}
